@@ -6,6 +6,7 @@ Simple web blog with django framework, but with rich features.
 2. Django framework version 2.1.x or higher
 3. Virtual environment
 4. Django cripsy forms `pip install django-cripsy-forms`
+5. Pillow `pip install Pillow`
 
 # How to Use
 1. Clone or download this repository
