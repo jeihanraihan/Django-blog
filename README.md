@@ -1,5 +1,5 @@
 # Django-blog
-Simple web blog with django framework, but with rich features.
+Simple web blog with django framework, but with rich features. See release version to see the features of this web
 
 # Prerequisite
 1. Python version 3.x or higher
@@ -13,4 +13,8 @@ Simple web blog with django framework, but with rich features.
 2. Migrate first with `py manage.py migrate`
 3. Runserver with `py manage.py runserver`
 4. Register first if you want to explore the blog, and finish
+
+# Contribute
+Want to collaborate? That's cool! you can send pull request to me :)
+
 
