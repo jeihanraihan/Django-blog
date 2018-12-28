@@ -17,6 +17,8 @@ Simple web blog with django framework, but with rich features. See release versi
 # Note
 1. If you found any error, please send me a messages or if you have a solution just send a PR
 2. Don't change the number of paginators in class `PostListView` as high as possible. oddly enough it makes the web stop immediately
+3. For now, password reset is only available if you use a gmail account
+4. You will not get a password reset instruction if you do not use the original email
 
 # Contribute
 Want to collaborate? That's cool! you can send pull request to me :)
