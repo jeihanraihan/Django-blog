@@ -20,7 +20,12 @@ Simple web blog with django framework, but with rich features. See release versi
 3. For now, password reset is only available if you use a gmail account
 4. You will not get a password reset instruction if you do not use the original email
 
+# Issues
+1. Error in user registration
+
 # Contribute
 Want to collaborate? That's cool! you can send pull request to me :)
+
+
 
 
